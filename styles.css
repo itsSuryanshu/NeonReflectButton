@@ -1,3 +1,7 @@
+* {
+  font-family: "Montserrat";
+}
+
 body {
   height: 90vh;
   display: grid;
